@@ -1,1 +1,4 @@
-
+streamlit==0.82.0
+yfinance==0.1.59
+pystan==2.19.1.1
+prophet==1.0.1
