@@ -1,3 +1,4 @@
+pystan~=2.14
 yfinance==0.1.59
 fbprophet==0.7.1
-
+plotly==4.14.3
